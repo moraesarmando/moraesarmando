@@ -1,6 +1,6 @@
 <h1 align="center" >Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Armando Moraes</h1>
 
-<p>I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+<p>I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my skills... Enthusiast about UX. :wink:
 </p>
 
 
