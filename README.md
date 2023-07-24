@@ -14,8 +14,8 @@
   <img align="center" height="128" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MoraesArmando&layout=compact&hide_border=true&theme=dracula" />
 </p>
 
-
-![Profile views](https://gpvc.arturio.dev/MoraesArmando)  <img src="https://img.shields.io/github/followers/MoraesArmando?label=Follow" style=" float:left, margin-right:10px" />
+ 
+ <!-- ![Profile views](https://gpvc.arturio.dev/MoraesArmando)<img src="https://img.shields.io/github/followers/MoraesArmando?label=Follow" style=" float:left, margin-right:10px" /> -->
 
 <h2></h2>
 
