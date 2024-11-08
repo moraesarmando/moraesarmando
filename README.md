@@ -1,44 +1,126 @@
-<h1 align="center" >Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Armando Moraes</h1>
+<h1 align="center">Hello! I'm Armando Moraes <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<p>I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my skills... Enthusiast about UX. :wink:
-</p>
-
+<p align="center">Full-stack Web Developer | SRE Enthusiast | Cloud & Automation Advocate | Passionate About User Experience</p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=dracula" />
 </p>
-
-
 
 <p align="center">
-  <img align="center" height="128" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MoraesArmando&layout=compact&hide_border=true&theme=dracula" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MoraesArmando&layout=compact&hide_border=true&theme=dracula" height="128" />
 </p>
 
- 
- <!-- ![Profile views](https://gpvc.arturio.dev/MoraesArmando)<img src="https://img.shields.io/github/followers/MoraesArmando?label=Follow" style=" float:left, margin-right:10px" /> -->
+---
 
-<h2></h2>
+## About Me
 
-### Tech & Tools Preference
+I'm a passionate **Full-stack Web Developer** with over a decade of experience in coding and problem-solving. My journey started when I was 12 years old, building a private server for my favorite game, Ragnarok. This experience sparked a lifelong fascination with programming and technology, leading me to pursue a career in software development.
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <!--<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">--> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular&logoColor=ffffff%22"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <!--<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> --> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> 
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <!--<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">--> <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+Currently, my focus is on **Site Reliability Engineering (SRE)**, where I leverage tools like Docker, Kubernetes, Terraform, Ansible, and GitLab CI to build scalable, reliable, and automated systems. I am deeply invested in **cloud computing**, **DevOps practices**, and **infrastructure as code**.
 
-<h2></h2>
-<!--
-### Other Languages I know
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">  <img src="https://img.shields.io/badge/-SQL-5A0FC8?style=flat&logo=SQL&logoColor=white">
--->
+In addition to my technical skills, I’m a strong advocate for **User Experience (UX)**. I believe that seamless, user-centered design is key to creating successful digital products.
 
-<br/>
+When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the latest trends in **financial markets** and **investing**.
 
-Let's connect 👨‍💻 and forge the future together.😁✌
+---
 
-**Check the Repositories and don't forget to give a star.** 👇
+## Core Competencies
 
-:star: From [MoraesArmando](https://github.com/MoraesArmando)
+### 🚀 **Site Reliability Engineering (SRE) & DevOps**
 
-[website]: https://MoraesArmando.github.io/Portfolio/
-[twitter]: https://twitter.com/Armando__Moraes
-[instagram]: https://www.instagram.com/armando.moraes/
-[linkedin]: https://www.linkedin.com/in/armando-moraes/
+- Building and maintaining scalable, high-performance systems
+- Implementing CI/CD pipelines with tools like **GitLab CI**, **Jenkins**, and **Docker**
+- Automating infrastructure using **Terraform**, **Ansible**, and **Kubernetes**
+- Ensuring system reliability, availability, and performance in production environments
+
+### 💻 **Full-stack Development**
+
+- Expertise in both **front-end** and **back-end** technologies
+- Proficient in **JavaScript**, **React**, **Angular**, **HTML5**, **CSS3**, **Node.js**, and **Spring Boot**
+- Experience with **RESTful APIs**, **Microservices Architecture**, and **Database Design**
+
+### 🛠 **Tools & Platforms**
+
+- Version control and collaboration with **Git** and **GitHub**
+- Cloud computing and infrastructure with **Google Cloud Platform** and **AWS**
+- Containerization and orchestration with **Docker** and **Kubernetes**
+- Working with various CI/CD tools, including **GitLab CI**, **Jenkins**, and **Travis CI**
+
+---
+
+## Tech Stack
+
+### 💻 **Front-end Development:**
+
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" alt="React" />
+  <img src="https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&logoColor=ffffff" alt="Angular" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### ⚙️ **Back-end Development:**
+
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+### 🔧 **Tools & Platforms:**
+
+<p>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-GitLab%20CI-FCA121?style=flat&logo=gitlab&logoColor=white" alt="GitLab CI" />
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/-Ansible-001D3D?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
+</p>
+
+---
+
+## Professional Experience
+
+### Site Reliability Engineer / DevOps Engineer
+
+- Designed and implemented CI/CD pipelines to improve deployment speed and reliability.
+- Automated infrastructure management using **Terraform** and **Ansible**, reducing manual intervention and errors.
+- Led the adoption of **Docker** and **Kubernetes** to containerize applications and orchestrate them efficiently in production.
+- Monitored and optimized application performance, ensuring high availability and minimal downtime.
+
+### Full-stack Developer
+
+- Developed user-facing web applications using **React** and **Angular**, enhancing user experience.
+- Created and maintained back-end services using **Node.js** and **Spring Boot**, ensuring robust and scalable applications.
+- Worked closely with product teams to ensure a smooth flow of features from development to deployment.
+
+---
+
+## Other Skills
+
+- **SQL & NoSQL Databases**: Proficient in **MySQL**, **PostgreSQL**, **MongoDB**, and **Redis**
+- **UX/UI Design**: Experience with user-centered design and wireframing
+- **Agile Methodologies**: Agile, Scrum, and Kanban practices
+
+---
+
+## Let's Connect
+
+If you're looking for a **skilled developer** with a strong background in **DevOps**, **cloud computing**, and a passion for **user experience**, feel free to reach out!
+
+- **LinkedIn**: [linkedin.com/in/armando-moraes](https://www.linkedin.com/in/armando-moraes/)
+
+---
+
+<p align="center">
+  **Check out my repositories and don’t forget to give a star!** 👇
+</p>
+<p align="center">
+  :star: From [MoraesArmando](https://github.com/moraesarmando)
+</p>
