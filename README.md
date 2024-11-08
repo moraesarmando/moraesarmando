@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Armando Moraes <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<p align="center">Full-stack Web Developer | SRE Enthusiast | Cloud & Automation Advocate | Passionate About User Experience</p>
+<p align="center">Full-stack Developer | SRE Enthusiast | Cloud & Automation Advocate | Passionate About User Experience</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=dracula" />
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a passionate **Full-stack Web Developer** with over a decade of experience in coding and problem-solving. My journey started when I was 12 years old, building a private server for my favorite game, Ragnarok. This experience sparked a lifelong fascination with programming and technology, leading me to pursue a career in software development.
+I'm a passionate **Full-stack Developer** with over a decade of experience in coding and problem-solving. My journey started when I was 12 years old, building a private server for my favorite game, Ragnarok. This experience sparked a lifelong fascination with programming and technology, leading me to pursue a career in software development.
 
 Currently, my focus is on **Site Reliability Engineering (SRE)**, where I leverage tools like Docker, Kubernetes, Terraform, Ansible, and GitLab CI to build scalable, reliable, and automated systems. I am deeply invested in **cloud computing**, **DevOps practices**, and **infrastructure as code**.
 
@@ -122,6 +122,7 @@ If you're looking for a **skilled developer** with a strong background in **DevO
   **Check out my repositories and don’t forget to give a star!** 👇
 </p>
 <p align="center">
+<<<<<<< HEAD
   <a href="https://github.com/moraesarmando" target="_blank" class="btn-favorite">
     <button style="font-size: 18px; padding: 10px 20px; background-color: #24292f; color: white; border: none; border-radius: 5px; cursor: pointer;">
         <i class="fas fa-star"></i> ⭐
@@ -132,4 +133,7 @@ If you're looking for a **skilled developer** with a strong background in **DevO
           background-color: #0366d6;
       }
   </style>
+=======
+  \ :star: From [moraesarmando](https://www.github.com/moraesarmando)
+>>>>>>> a20cb53b534cb92b7644504541818f7451e64bad
 </p>
