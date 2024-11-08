@@ -24,30 +24,6 @@ When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the
 
 ---
 
-## Core Competencies
-
-### 🚀 **Site Reliability Engineering (SRE) & DevOps**
-
-- Building and maintaining scalable, high-performance systems
-- Implementing CI/CD pipelines with tools like **GitLab CI**, **Jenkins**, and **Docker**
-- Automating infrastructure using **Terraform**, **Ansible**, and **Kubernetes**
-- Ensuring system reliability, availability, and performance in production environments
-
-### 💻 **Full-stack Development**
-
-- Expertise in both **front-end** and **back-end** technologies
-- Proficient in **JavaScript**, **React**, **Angular**, **HTML5**, **CSS3**, **Node.js**, and **Spring Boot**
-- Experience with **RESTful APIs**, **Microservices Architecture**, and **Database Design**
-
-### 🛠 **Tools & Platforms**
-
-- Version control and collaboration with **Git** and **GitHub**
-- Cloud computing and infrastructure with **Google Cloud Platform** and **AWS**
-- Containerization and orchestration with **Docker** and **Kubernetes**
-- Working with various CI/CD tools, including **GitLab CI**, **Jenkins**, and **Travis CI**
-
----
-
 ## Tech Stack
 
 ### 💻 **Front-end Development:**
@@ -82,6 +58,30 @@ When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/-Ansible-001D3D?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
 </p>
+
+---
+
+## Core Competencies
+
+### 🚀 **Site Reliability Engineering (SRE) & DevOps**
+
+- Building and maintaining scalable, high-performance systems
+- Implementing CI/CD pipelines with tools like **GitLab CI**, **Jenkins**, and **Docker**
+- Automating infrastructure using **Terraform**, **Ansible**, and **Kubernetes**
+- Ensuring system reliability, availability, and performance in production environments
+
+### 💻 **Full-stack Development**
+
+- Expertise in both **front-end** and **back-end** technologies
+- Proficient in **JavaScript**, **React**, **Angular**, **HTML5**, **CSS3**, **Node.js**, and **Spring Boot**
+- Experience with **RESTful APIs**, **Microservices Architecture**, and **Database Design**
+
+### 🛠 **Tools & Platforms**
+
+- Version control and collaboration with **Git** and **GitHub**
+- Cloud computing and infrastructure with **Google Cloud Platform** and **AWS**
+- Containerization and orchestration with **Docker** and **Kubernetes**
+- Working with various CI/CD tools, including **GitLab CI**, **Jenkins**, and **Travis CI**
 
 ---
 
