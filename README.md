@@ -122,5 +122,5 @@ If you're looking for a **skilled developer** with a strong background in **DevO
   **Check out my repositories and don’t forget to give a star!** 👇
 </p>
 <p align="center">
-  :star: From [moraesarmando](https://www.github.com/moraesarmando)
+  \ :star: From [moraesarmando](https://www.github.com/moraesarmando)
 </p>
