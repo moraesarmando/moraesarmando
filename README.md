@@ -127,9 +127,4 @@ If you're looking for a **skilled developer** with a strong background in **DevO
         <i class="fas fa-star"></i> ⭐
     </button>
   </a>
-  <style>
-      .btn-favorite:hover button {
-          background-color: #0366d6;
-      }
-  </style>
 </p>
