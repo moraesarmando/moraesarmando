@@ -122,7 +122,6 @@ If you're looking for a **skilled developer** with a strong background in **DevO
   **Check out my repositories and don’t forget to give a star!** 👇
 </p>
 <p align="center">
-<<<<<<< HEAD
   <a href="https://github.com/moraesarmando" target="_blank" class="btn-favorite">
     <button style="font-size: 18px; padding: 10px 20px; background-color: #24292f; color: white; border: none; border-radius: 5px; cursor: pointer;">
         <i class="fas fa-star"></i> ⭐
@@ -133,7 +132,4 @@ If you're looking for a **skilled developer** with a strong background in **DevO
           background-color: #0366d6;
       }
   </style>
-=======
-  \ :star: From [moraesarmando](https://www.github.com/moraesarmando)
->>>>>>> a20cb53b534cb92b7644504541818f7451e64bad
 </p>
