@@ -23,7 +23,7 @@ In addition to my technical skills, I’m a strong advocate for **User Experienc
 When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the latest trends in **financial markets** and **investing**.
 
 
-<!--
+
 ---
 ## Tech Stack
 
@@ -59,8 +59,9 @@ When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/-Ansible-001D3D?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
 </p>
--->
+
 ---
+<!--
 
 ## Core Competencies
 
@@ -100,8 +101,8 @@ When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the
 - Developed user-facing web applications using **React** and **Angular**, enhancing user experience.
 - Created and maintained back-end services using **Node.js** and **Spring Boot**, ensuring robust and scalable applications.
 - Worked closely with product teams to ensure a smooth flow of features from development to deployment.
-
 ---
+-->
 
 ## Other Skills
 
