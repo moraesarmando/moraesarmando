@@ -28,7 +28,7 @@
     </a>
   </div>
 
-  <h2>📊 Estatísticas</h2>
+  <h3>📊 Estatísticas</h3>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" height="200" style="padding-right: 10px;"  />
   </div>
