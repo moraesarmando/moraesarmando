@@ -12,6 +12,49 @@ In addition to my technical skills, I’m a strong advocate for **User Experienc
 
 When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the latest trends in **financial markets** and **investing**.
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MoraesArmando&layout=compact&hide_border=true&theme=dracula" height="128" />
+</p>
+
+<p align="center">
+  **Check out my repositories and don’t forget to give a star!** 👇
+</p>
+<p align="center">
+    <a href="https://www.youtube.com/@mdk.devops?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCABHXz3xMLXR1iWmuxADGOA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@mdk.devops">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCABHXz3xMLXR1iWmuxADGOA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/moraesarmando?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/moraesarmando?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/moraesarmando?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/moraesarmando?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
 ## Tech Stack
 
 ### 💻 **Front-end Development:**
@@ -103,44 +146,3 @@ If you're looking for a **skilled developer** with a strong background in **DevO
 
 - **LinkedIn**: [linkedin.com/in/armando-moraes](https://www.linkedin.com/in/armando-moraes/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MoraesArmando&layout=compact&hide_border=true&theme=dracula" height="128" />
-</p>
-
-<p align="center">
-  **Check out my repositories and don’t forget to give a star!** 👇
-</p>
-<p align="center">
-    <a href="https://www.youtube.com/@mdk.devops?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCABHXz3xMLXR1iWmuxADGOA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@mdk.devops">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCABHXz3xMLXR1iWmuxADGOA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/moraesarmando?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/moraesarmando?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/moraesarmando?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/moraesarmando?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
