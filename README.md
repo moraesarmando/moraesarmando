@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Armando Moraes <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<p align="center">Full-stack Developer | SRE Enthusiast | Cloud & Automation Advocate </p>
+<p align="center">Full-stack Developer </p>
 
 ## About Me
 
