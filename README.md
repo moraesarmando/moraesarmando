@@ -1,23 +1,17 @@
   <h1 align="center">Hello! I'm Armando Moraes <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-
-  <p align="center">Full-stack Developer</p>
-
   <h2>About Me</h2>
   <p>
-    I'm a passionate <strong>Full-stack Developer</strong> with over a decade of experience in coding and problem-solving. My journey started when I was 12 years old, building a private server for my favorite game, Ragnarok. This experience sparked a lifelong fascination with programming and technology, leading me to pursue a career in software development.
+    Sou um <strong>Desenvolvedor Full-stack</strong> apaixonado, com mais de uma década de experiência em programação e resolução de problemas. Minha jornada começou aos 12 anos, quando criei um servidor privado para meu jogo favorito, Ragnarok. Essa experiência despertou uma fascinação duradoura por programação e tecnologia, levando-me a seguir uma carreira em desenvolvimento de software.
   </p>
   <p>
-    Currently, my focus is on <strong>Site Reliability Engineering (SRE)</strong>, where I leverage tools like Docker, Kubernetes, Terraform, Ansible, and GitLab CI to build scalable, reliable, and automated systems. I am deeply invested in <strong>cloud computing</strong>, <strong>DevOps practices</strong>, and <strong>infrastructure as code</strong>.
+    Atualmente, meu foco é em <strong>Engenharia de Confiabilidade de Sites</strong> <strong>(SRE)</strong>, onde utilizo ferramentas como Docker, Kubernetes, Terraform, Ansible e GitLab CI para construir sistemas escaláveis, confiáveis e automatizados. Sou muito interessado em <strong>computação em nuvem</strong>, práticas <strong>DevOps</strong> e infraestrutura como código.
   </p>
   <p>
-    In addition to my technical skills, I’m a strong advocate for <strong>User Experience (UX)</strong>. I believe that seamless, user-centered design is key to creating successful digital products.
-  </p>
-  <p>
-    When I'm not coding, I enjoy <strong>chess</strong>, <strong>swimming</strong>, and staying updated on the latest trends in <strong>financial markets</strong> and <strong>investing</strong>.
+    Quando não estou programando, gosto de jogar <strong>xadrez</strong>, <strong>nadar</strong> e me manter atualizado sobre as últimas tendências em mercados financeiros e <strong>investimentos</strong>.
   </p>
 
   <p align="center">
-    <strong>Check out my repositories and don’t forget to give a star!</strong> 👇
+    <strong>Confira meus repositórios e não se esqueça de deixar uma estrela!</strong> 👇
   </p>
 
   <div align="center">
