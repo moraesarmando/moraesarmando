@@ -70,5 +70,7 @@
   <h2>📊 Estatísticas</h2>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="200" style="padding-right: 10px;"  />
+  </div>
+  <div align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MoraesArmando&layout=compact&hide_border=true&theme=tokyonight" height="128" alt="Top Languages" height="200" />
   </div>
