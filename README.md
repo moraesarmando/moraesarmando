@@ -22,8 +22,9 @@ In addition to my technical skills, I’m a strong advocate for **User Experienc
 
 When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the latest trends in **financial markets** and **investing**.
 
----
 
+<!--
+---
 ## Tech Stack
 
 ### 💻 **Front-end Development:**
@@ -58,7 +59,7 @@ When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/-Ansible-001D3D?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
 </p>
-
+-->
 ---
 
 ## Core Competencies
