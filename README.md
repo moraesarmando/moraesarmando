@@ -12,15 +12,6 @@ In addition to my technical skills, I’m a strong advocate for **User Experienc
 
 When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the latest trends in **financial markets** and **investing**.
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MoraesArmando&layout=compact&hide_border=true&theme=dracula" height="128" />
-</p>
-
 <p align="center">
   **Check out my repositories and don’t forget to give a star!** 👇
 </p>
@@ -138,11 +129,21 @@ When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the
 - **SQL & NoSQL Databases**: Proficient in **MySQL**, **PostgreSQL**, **MongoDB**, and **Redis**
 - **UX/UI Design**: Experience with user-centered design and wireframing
 - **Agile Methodologies**: Agile, Scrum, and Kanban practices
--->
+
 
 ## Let's Connect
 
 If you're looking for a **skilled developer** with a strong background in **DevOps**, **cloud computing**, and a passion for **user experience**, feel free to reach out!
 
 - **LinkedIn**: [linkedin.com/in/armando-moraes](https://www.linkedin.com/in/armando-moraes/)
+-->
 
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MoraesArmando&layout=compact&hide_border=true&theme=dracula" height="128" />
+</p>
