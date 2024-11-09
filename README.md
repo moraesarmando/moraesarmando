@@ -7,7 +7,7 @@
     Atualmente, meu foco é em <strong>Engenharia de Confiabilidade de Sites</strong> <strong>(SRE)</strong>, onde utilizo ferramentas como Docker, Kubernetes, Terraform, Ansible e GitLab CI para construir sistemas escaláveis, confiáveis e automatizados. Sou muito interessado em <strong>computação em nuvem</strong>, práticas <strong>DevOps</strong> e infraestrutura como código.
   </p>
   <p>
-    Quando não estou programando, gosto de jogar <strong>xadrez</strong>, <strong>nadar</strong> e me manter atualizado sobre as últimas tendências em mercados financeiros e <strong>investimentos</strong>.
+    Quando não estou programando, gosto de <strong>jogar xadrez</strong>, <strong>nadar</strong> e me manter atualizado sobre as últimas tendências em mercados financeiros e <strong>investimentos</strong>.
   </p>
 
   <p align="center">
