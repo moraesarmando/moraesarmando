@@ -130,12 +130,6 @@ When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the
 - **UX/UI Design**: Experience with user-centered design and wireframing
 - **Agile Methodologies**: Agile, Scrum, and Kanban practices
 
-
-## Let's Connect
-
-If you're looking for a **skilled developer** with a strong background in **DevOps**, **cloud computing**, and a passion for **user experience**, feel free to reach out!
-
-- **LinkedIn**: [linkedin.com/in/armando-moraes](https://www.linkedin.com/in/armando-moraes/)
 -->
 
 ### 📊 Estatísticas
