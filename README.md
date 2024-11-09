@@ -88,13 +88,14 @@ When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the
 - Created and maintained back-end services using **Node.js** and **Spring Boot**, ensuring robust and scalable applications.
 - Worked closely with product teams to ensure a smooth flow of features from development to deployment.
 ---
--->
+
 
 ## Other Skills
 
 - **SQL & NoSQL Databases**: Proficient in **MySQL**, **PostgreSQL**, **MongoDB**, and **Redis**
 - **UX/UI Design**: Experience with user-centered design and wireframing
 - **Agile Methodologies**: Agile, Scrum, and Kanban practices
+-->
 
 ## Let's Connect
 
