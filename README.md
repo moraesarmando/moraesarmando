@@ -138,7 +138,7 @@ If you're looking for a **skilled developer** with a strong background in **DevO
 - **LinkedIn**: [linkedin.com/in/armando-moraes](https://www.linkedin.com/in/armando-moraes/)
 -->
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=dracula" />
