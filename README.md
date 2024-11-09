@@ -1,5 +1,5 @@
-  <h1 align="center">Hello! I'm Armando Moraes <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-  <h2>About Me</h2>
+  <h1 align="center"> Armando Moraes <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+  <h2>Sobre</h2>
   <p>
     Sou um <strong>Desenvolvedor Full-stack</strong> apaixonado, com quase uma década de experiência em programação e resolução de problemas. Minha jornada começou aos 12 anos, quando criei um servidor privado para meu jogo favorito, Ragnarok. Essa experiência despertou uma fascinação duradoura por programação e tecnologia, levando-me a seguir uma carreira em desenvolvimento de software.
   </p>
