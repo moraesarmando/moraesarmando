@@ -27,8 +27,7 @@
       <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/moraesarmando?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
   </div>
-
-  <h3>📊 Estatísticas</h3>
+  
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" height="200" style="padding-right: 10px;"  />
   </div>
