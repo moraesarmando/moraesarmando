@@ -2,9 +2,6 @@
 
 <p align="center">Full-stack Developer | SRE Enthusiast | Cloud & Automation Advocate </p>
 
-
-
-
 ## About Me
 
 I'm a passionate **Full-stack Developer** with over a decade of experience in coding and problem-solving. My journey started when I was 12 years old, building a private server for my favorite game, Ragnarok. This experience sparked a lifelong fascination with programming and technology, leading me to pursue a career in software development.
@@ -15,7 +12,6 @@ In addition to my technical skills, I’m a strong advocate for **User Experienc
 
 When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the latest trends in **financial markets** and **investing**.
 
----
 ## Tech Stack
 
 ### 💻 **Front-end Development:**
@@ -51,7 +47,6 @@ When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the
   <img src="https://img.shields.io/badge/-Ansible-001D3D?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
 </p>
 
----
 <!--
 
 ## Core Competencies
@@ -101,15 +96,11 @@ When I'm not coding, I enjoy **chess**, **swimming**, and staying updated on the
 - **UX/UI Design**: Experience with user-centered design and wireframing
 - **Agile Methodologies**: Agile, Scrum, and Kanban practices
 
----
-
 ## Let's Connect
 
 If you're looking for a **skilled developer** with a strong background in **DevOps**, **cloud computing**, and a passion for **user experience**, feel free to reach out!
 
 - **LinkedIn**: [linkedin.com/in/armando-moraes](https://www.linkedin.com/in/armando-moraes/)
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=dracula" />
@@ -118,8 +109,6 @@ If you're looking for a **skilled developer** with a strong background in **DevO
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MoraesArmando&layout=compact&hide_border=true&theme=dracula" height="128" />
 </p>
-
----
 
 <p align="center">
   **Check out my repositories and don’t forget to give a star!** 👇
