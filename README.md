@@ -1,6 +1,6 @@
   <h1 align="center"> Armando Moraes <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
   <p>
-    Sou um <strong>Desenvolvedor Full-stack</strong>, com mais de uma década de experiência em programação e resolução de problemas. Minha jornada começou aos 12 anos, quando criei um servidor privado para meu jogo favorito, Ragnarok. Essa experiência despertou uma fascinação duradoura por programação e tecnologia, levando-me a seguir uma carreira em desenvolvimento de software.
+    Sou um <strong>Desenvolvedor</strong>, com mais de uma década de experiência em programação e resolução de problemas. Minha jornada começou aos 12 anos, quando criei um servidor privado para meu jogo favorito, Ragnarok. Essa experiência despertou uma fascinação duradoura por programação e tecnologia, levando-me a seguir uma carreira em desenvolvimento de software.
   </p>
   <p>
     Atualmente, meu foco é em <strong>Engenharia de Confiabilidade de Sites</strong> <strong>(SRE)</strong>, onde utilizo ferramentas como Docker, Kubernetes, Terraform, Ansible e GitLab CI para construir sistemas escaláveis, confiáveis e automatizados. Sou muito interessado em <strong>computação em nuvem</strong>, práticas <strong>DevOps</strong> e infraestrutura como código.
