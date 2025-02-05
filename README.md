@@ -23,9 +23,6 @@
   <p>
     Quando não estou programando, gosto de <strong>xadrez</strong>, <strong>nadar</strong> e me manter atualizado sobre as últimas tendências em mercados financeiros e investimentos.
   </p>
-  <p align="center">
-    <strong>Confira meus repositórios e não se esqueça de deixar uma estrela!</strong> 👇
-  </p>
   <div align="center" >
     <img src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" height="200" style="padding-right: 10px;"  />
   </div>
