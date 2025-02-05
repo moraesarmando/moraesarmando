@@ -13,10 +13,6 @@
       <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/moraesarmando?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
   </div>
-  </br>
-  <div align="center" >
-    <img src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" height="200" style="padding-right: 10px;"  />
-  </div>
   <p>
     Sou um <strong>Desenvolvedor</strong>, com mais de uma década de experiência em programação e resolução de problemas. Minha jornada começou aos 12 anos, quando criei um servidor privado para meu jogo favorito, Ragnarok. Essa experiência despertou uma fascinação duradoura por programação e tecnologia, levando-me a seguir uma carreira em desenvolvimento de software.
   </p>
@@ -26,12 +22,12 @@
   <p>
     Quando não estou programando, gosto de <strong>xadrez</strong>, <strong>nadar</strong> e me manter atualizado sobre as últimas tendências em mercados financeiros e investimentos.
   </p>
-
   <p align="center">
     <strong>Confira meus repositórios e não se esqueça de deixar uma estrela!</strong> 👇
   </p>
-
-
+  <div align="center" >
+    <img src="https://github-readme-stats.vercel.app/api?username=MoraesArmando&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" height="200" style="padding-right: 10px;"  />
+  </div>
   <div align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MoraesArmando&custom_title=Tecnologias&layout=compact&hide_border=true&theme=tokyonight" height="128" alt="Top Languages" height="200" />
   </div>
