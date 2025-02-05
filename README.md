@@ -13,7 +13,7 @@
       <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/moraesarmando?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
   </div>
-  
+  </br>
   <p>
     Sou um <strong>Desenvolvedor</strong>, com mais de uma década de experiência em programação e resolução de problemas. Minha jornada começou aos 12 anos, quando criei um servidor privado para meu jogo favorito, Ragnarok. Essa experiência despertou uma fascinação duradoura por programação e tecnologia, levando-me a seguir uma carreira em desenvolvimento de software.
   </p>
