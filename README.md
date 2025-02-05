@@ -11,6 +11,8 @@ Quando não estou programando, gosto de <strong>xadrez</strong>, <strong>nadar</
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoraesArmando&theme=nord_dark) |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoraesArmando&theme=nord_dark&utcOffset=8)|
 | :-: | :-: |
+
+<!--
 <div align="center">
   <a href="https://www.youtube.com/@mdk.devops?sub_confirmation=1">
     <img alt="youtube subscribers" title="Inscreva-se no meu canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCABHXz3xMLXR1iWmuxADGOA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
@@ -25,5 +27,4 @@ Quando não estou programando, gosto de <strong>xadrez</strong>, <strong>nadar</
     <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/moraesarmando?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
   </a>
 </div>
-
-
+-->
