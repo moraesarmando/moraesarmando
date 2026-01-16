@@ -1,4 +1,4 @@
-# Armando Moraes  - @armando.mdk
+# Armando Moraes  - @rmnd_mrs
   
 Sou um <strong>Desenvolvedor</strong>, com mais de uma década de experiência em programação e resolução de problemas. Minha jornada começou aos 12 anos, quando criei um servidor privado para meu jogo favorito, Ragnarok. Essa experiência despertou uma fascinação duradoura por programação e tecnologia, levando-me a seguir uma carreira em desenvolvimento de software.
 
