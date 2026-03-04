@@ -14,10 +14,10 @@ Quando não estou programando, gosto de <strong>xadrez</strong>, <strong>nadar</
 
 
 <div align="center">
-  <a href="https://www.youtube.com/@mdk.devops?sub_confirmation=1">
+  <a href="https://www.youtube.com/@armandomoraes-pro?sub_confirmation=1">
     <img alt="youtube subscribers" title="Inscreva-se no meu canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCABHXz3xMLXR1iWmuxADGOA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
   </a>
-  <a href="https://www.youtube.com/@mdk.devops">
+  <a href="https://www.youtube.com/@armandomoraes-pro">
     <img alt="youtube views" title="Vizualizações no YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCABHXz3xMLXR1iWmuxADGOA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
   </a>
   <a href="https://github.com/moraesarmando?tab=repositories&sort=stargazers">
