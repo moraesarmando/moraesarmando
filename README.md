@@ -1,10 +1,42 @@
 # Armando Moraes  - @armandomoraes.pro
   
-Sou um <strong>Desenvolvedor</strong>, com mais de uma década de experiência em programação e resolução de problemas. Minha jornada começou aos 12 anos, quando criei um servidor privado para meu jogo favorito, Ragnarok. Essa experiência despertou uma fascinação duradoura por programação e tecnologia, levando-me a seguir uma carreira em desenvolvimento de software.
+Software Developer · SRE · DevOps · Infrastructure
 
-Atualmente, meu foco é em <strong>Engenharia de Confiabilidade de Sites</strong> <strong>(SRE)</strong>, onde utilizo ferramentas como Docker, Kubernetes, Terraform, Ansible e GitLab CI para construir sistemas escaláveis, confiáveis e automatizados. Sou muito interessado em <strong>computação em nuvem</strong>, práticas <strong>DevOps</strong> e infraestrutura como código.
+I’m a software developer with a strong background in infrastructure, automation, and software engineering. My current focus is on SRE, DevOps, Cloud Native, and Platform Engineering, building reliable, scalable, and automated environments.
 
-Quando não estou programando, gosto de <strong>xadrez</strong>, <strong>nadar</strong> e me manter atualizado sobre as últimas tendências em mercados financeiros e investimentos.
+## Focus
+- Site Reliability Engineering
+- DevOps & Platform Engineering
+- Kubernetes & Cloud Native
+- Infrastructure as Code
+- CI/CD & Automation
+- Observability & Reliability
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+</p>
+
+### Currently Exploring
+
+<p>
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform%20Engineering-4A5568?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevSecOps-2F855A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Observability-805AD5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-232F3E?style=flat-square&logo=icloud&logoColor=white" />
+</p>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoraesArmando&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoraesArmando&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoraesArmando&theme=nord_dark) |
 | :-: | :-: | :-: |
