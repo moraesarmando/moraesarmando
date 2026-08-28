@@ -4,14 +4,6 @@ Software Developer · SRE · DevOps · Infrastructure
 
 I’m a software developer with a strong background in infrastructure, automation, and software engineering. My current focus is on SRE, DevOps, Cloud Native, and Platform Engineering, building reliable, scalable, and automated environments.
 
-## Focus
-- Site Reliability Engineering
-- DevOps & Platform Engineering
-- Kubernetes & Cloud Native
-- Infrastructure as Code
-- CI/CD & Automation
-- Observability & Reliability
-
 ### Stack
 
 <p>
